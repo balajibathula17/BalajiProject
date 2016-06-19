@@ -1,0 +1,2 @@
+claas Second {
+}
