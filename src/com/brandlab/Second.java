@@ -1,2 +1,3 @@
 claas Second {
+int a;
 }
